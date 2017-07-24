@@ -1,5 +1,6 @@
 # WebscrapeBoxOfficePredictor
-[Predicted vs. Actual Box Office Gross](Predicted_Gross.png)
+![Predicted vs. Actual Box Office Gross](Predicted_Gross.png?raw=true)
+
 Image of final fit
 
 
