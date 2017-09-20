@@ -1,3 +1,6 @@
+From https://andrewkruger.github.io/projects/2017-07-21-predicting-movie-earnings
+
+
 
 ## Predicting Opening Weekend Domestic Gross Earnings for the Movies
 
